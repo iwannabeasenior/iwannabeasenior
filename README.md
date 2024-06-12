@@ -1,6 +1,14 @@
 ### Hi, I'm Thanh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-:mailbox : **thanhdepzai37@gmail.com**
-<p>I'm Thanh a mobile intern and currently majoring in computer science at Ha Noi Unniversity of Science and Technology
+📫: **thanhdepzai37@gmail.com**
+<p> I'm Thanh a mobile intern and currently majoring in computer science at Ha Noi Unniversity of Science and Technology </p>
+
+### Top Technologies
+![Twitter Badge](https://img.shields.io/badge/Flutter-8A2BE2?logo=flutter) 
+  ![Kotlin Badge](https://img.shields.io/badge/Koltin-F7FDE1?logo=kotlin)
+  ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-FFFFFF?logo=android%20studio)
+  
+
+
 
 
 - 🔭 I’m currently working on ...
