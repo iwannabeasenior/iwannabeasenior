@@ -22,4 +22,4 @@ I'm Thành a mobile intern and currently majoring in computer science at [Ha Noi
 - ⚡ Fun fact: ...
 -->
 ### Github Stats
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![iwannabeasenior's github stats](https://github-readme-stats.vercel.app/api?username=iwannabeasenior&count_private=true&theme=tokyonight&hide=contribs,prs)
