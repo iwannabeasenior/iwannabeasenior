@@ -11,8 +11,6 @@ I'm Thành a mobile intern and currently majoring in computer science at [Ha Noi
 
 ### What I current do
 - 🌱 I’m currently learning Jetpack Compose
-
-- 🔭 I’m currently working on Greethy project
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
