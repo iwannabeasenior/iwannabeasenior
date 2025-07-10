@@ -8,7 +8,6 @@
 ### Top Technologies
 ![Flutter Badge](https://img.shields.io/badge/Flutter-5BB5E8?logo=flutter&logoColor=5BB5E8&style=for-the-badge&labelColor=black) 
   ![Flutter Badge](https://img.shields.io/badge/Kotlin-B128E8?logo=kotlin&logoColor=B128E8&style=for-the-badge&labelColor=black) 
-  ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-23E850?logo=android%20studio&style=for-the-badge&labelColor=black&)
 
 ### What I current do
 - 🌱 I’m currently learning Jetpack Compose
